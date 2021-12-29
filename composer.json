@@ -1,0 +1,19 @@
+{
+    "name": "pack/test",
+    "description": "pack test",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Pack\\Test\\":"src/"
+        }
+    },
+    "minimum-stability": "dev",
+    "require": {},
+    "authors": [
+        {
+            "name": "fa",
+            "email": "714142307@qq.com"
+        }
+    ]
+}
